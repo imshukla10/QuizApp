@@ -76,7 +76,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:background="@color/design_default_color_primary"
+                android:background="@color/design_default_color_primary_dark"
                 android:text="Start"
                 android:textSize="18sp"
                 android:textColor="@color/white" />

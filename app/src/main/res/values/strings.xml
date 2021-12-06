@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="result">Result</string>
+    <string name="image">image</string>
+    <string name="hey_congratulation">Hey,Congratulation!</string>
+    <string name="username">Username</string>
+    <string name="your_score_is_out_of_10">Your Score is - out of 10</string>
+    <string name="finish">FINISH</string>
 </resources>
